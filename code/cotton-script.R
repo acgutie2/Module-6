@@ -75,7 +75,6 @@ cotton_18 %>%
   arrange(rank) %>%
   top_n(2)
 
- 
 head(cotton_18)  
   
  
