@@ -76,6 +76,6 @@ cotton_18 %>%
   top_n(2)
 
  
-head(cotton_18) 
+head(cotton_18)  
   
  
